@@ -6,7 +6,7 @@ def test_more_hello():
 
 
 def test_more_bye():
-    assert "bye" == more_bye()
+    assert "nnn" == more_bye()
 
 
 var = 1
