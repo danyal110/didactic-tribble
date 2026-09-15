@@ -3,7 +3,7 @@ def more_hello():
 
 
 def more_bye():
-    return "bye"
+    return "nnn"
 
 
 # var=1
