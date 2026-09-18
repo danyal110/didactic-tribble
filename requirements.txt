@@ -4,3 +4,5 @@ pylint
 black
 pytest-cov
 ipython
+fastapi
+uvicorn
